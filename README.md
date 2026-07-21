@@ -49,17 +49,20 @@
 TheButcherLauncher.exe
 ```
 
-(или можешь просто кликнуть 2 раза на файл, ты не на линуксе)
-
 ### 3️⃣ Зарегайся в свой майкрософт или в оффлайн-аккаунт! 🎮
 
-Скажи имба, да?
+Плей ин оффлайн мод:
+■ Аккаунты
+▼ Введи ник
+▼ Войди с оффлайн-аккаунтом
+[✕] ### Готово
+
+Играешь с лицензией?
+В том же окне нажми ### [Войти через Microsoft]
 
 ---
 
 ## 🛠️ Для разрабов
-
-Хочешь помочь проекту? Спасибо тебе заранее! 🙏
 
 ### Технологии, которые мы используем
 
@@ -99,7 +102,7 @@ cd TheButcherLauncher
 
 ## 🐛 Обращение к разрабу
 
-Произошла какая-то херь или возник вопрос, просто создай так называемый [Issue](https://github.com/theogyrdima/TheButcherLauncher/issues)
+Произошла какая-то херь или возник вопрос, просто создай так называемый ### [Issue](https://github.com/theogyrdima/TheButcherLauncher/issues)
 
 Ну если в падлу то вот ответы на частые запросы:
 | Что случилось? | Что делать? |
@@ -107,21 +110,11 @@ cd TheButcherLauncher
 | Лаунчер не запускается | Проверь, установлен ли .NET 8 Runtime |
 | Не подключается к серверу | Проверь интернет или статус сервера |
 | Мало FPS в игре | Поменяй настройки в майне или выдели больше ОЗУ |
-| Java не найдена | Значит надо [скачать Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253456_ba687cb3cbb24342adc8fdf890b993dc |
+| Java не найдена | Значит надо ### [скачать Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253456_ba687cb3cbb24342adc8fdf890b993dc) |
 
 ---
 
-## 💬 Давай общаться!
-
-Мы всегда рады твоим идеям и сообщениям об ошибках:
-
-- 🐛 **Нашёл ошибку?** — [Создай Issue](https://github.com/theogyrdima/TheButcherLauncher/issues/new), расскажи подробнее
-- 💡 **Есть идея?** — [Напиши в Discussions](https://github.com/theogyrdima/TheButcherLauncher/discussions), поговорим!
-- 🌐 **Официальный сайт** — [d16.aurorix.net](http://d16.aurorix.net:25795/)
-
----
-
-## ⭐ Если тебе нравится проект...
+## ⭐ Если тебе нравится лаунчер...
 
 ...то поставь звёздочку ⭐ в репозитории! Это очень мотивирует разраба продолжать работу! 😊
 
@@ -131,7 +124,7 @@ cd TheButcherLauncher
 
 ### 🎮 Добро пожаловать на сервер **"Коч братан"**! 🎉
 
-**С любовью ❤️ от [theogyrdima](https://github.com/theogyrdima)**
+**Создано [theogyrdima](https://github.com/theogyrdima)**
 
 © 2026 The Butcher Studios
 
