@@ -111,7 +111,7 @@ cd TheButcherLauncher
 | Лаунчер не запускается | Проверь, установлен ли .NET 8 Runtime |
 | Не подключается к серверу | Проверь интернет или статус сервера |
 | Мало FPS в игре | Поменяй настройки в майне или выдели больше ОЗУ |
-| Java не найдена | Значит надо **[скачать Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253456_ba687cb3cbb24342adc8fdf890b993dc)** |
+| Java не найдена | Значит надо **[скачать Java](https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin21-binaries%2Freleases%2Fdownload%2Fjdk-21.0.11%252B10%2FOpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.msi&vendor=Adoptium)** |
 
 ---
 
